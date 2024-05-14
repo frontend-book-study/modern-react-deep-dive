@@ -16,3 +16,8 @@ jobs:
         run: npm ci
       - name: 'build'
         run: npm run build
+
+      - name: compress Images
+        uses: calibreapp/image-actions@main
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
