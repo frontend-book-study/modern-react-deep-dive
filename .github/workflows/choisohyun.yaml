@@ -1,5 +1,4 @@
 name: choisohyun CI
-run-name: ${{ github.actor }} has been added new commit.
 on:
   push:
     branches-ignore:
