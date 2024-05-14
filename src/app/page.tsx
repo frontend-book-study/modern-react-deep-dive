@@ -24,6 +24,41 @@ export default function Home() {
               height={24}
               priority
             />
+            <Image
+              src="/image-1.jpg"
+              alt="Vercel Logo"
+              width={100}
+              height={24}
+              priority
+            />
+            <Image
+              src="/image-2.jpg"
+              alt="Vercel Logo"
+              width={100}
+              height={24}
+              priority
+            />
+            <Image
+              src="/image-3.jpg"
+              alt="Vercel Logo"
+              width={100}
+              height={24}
+              priority
+            />
+            <Image
+              src="/image-4.jpg"
+              alt="Vercel Logo"
+              width={100}
+              height={24}
+              priority
+            />
+            <Image
+              src="/image-5.jpg"
+              alt="Vercel Logo"
+              width={100}
+              height={24}
+              priority
+            />
           </a>
         </div>
       </div>
